@@ -3,12 +3,17 @@ In Physics the concepts of position (POS), velocity (VEL), and acceleration (ACC
 
 ## 1. Economic Position
 $$  
-EP = \frac{NetWorth}{GDP}  
+EPOS = \frac{NetWorth}{GDP}  
 $$  
 
 ## 2. Economic Velocity
 $$  
-EV = \delta EP = \frac{ \delta NetWorth}{ \delta GDP}  
+EVEL = \delta EP = \frac{ \delta NetWorth}{ \delta GDP}  
+$$  
+
+## 3. Economic Acceleration
+$$  
+EACC = \delta EV
 $$  
 
 ## Usage
