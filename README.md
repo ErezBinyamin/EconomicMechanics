@@ -6,6 +6,11 @@ $$
 EP = \frac{NetWorth}{GDP}  
 $$  
 
+## 2. Economic Velocity
+$$  
+EV = \delta EP = \frac{ \delta NetWorth}{ \delta GDP}  
+$$  
+
 ## Usage
 App runs out of a docker container, so use run.sh to run the application "standhope.py"
 ```bash
