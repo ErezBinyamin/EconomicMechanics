@@ -1,6 +1,7 @@
 # Ignore all data
 app/data/ 
-
+.idea
+.ipynb_checkpoints
 # Ignore .img_build
 .image_build
 
