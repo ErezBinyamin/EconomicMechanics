@@ -7,5 +7,5 @@ wget 'https://www.federalreserve.gov/releases/z1/dataviz/download/zips/z1-visual
 unzip z1-visualization.zip; rm z1-visualization.zip
 wget 'https://www.federalreserve.gov/econres/scf/dataviz/download/zips/scf.zip'
 unzip scf.zip; rm scf.zip
-rm -f *.txt z1-visualization-data.csv
+rm -f *.txt z1-visualization-data.csv *_have.*
 popd
