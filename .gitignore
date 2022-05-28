@@ -1,3 +1,6 @@
+# Ignore all data
+app/data/ 
+
 # Ignore .img_build
 .image_build
 
