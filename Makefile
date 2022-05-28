@@ -1,5 +1,5 @@
-IMAGE_NAME=standhope
-DEPS=Dockerfile app/standhope.py app/requirements.txt
+IMAGE_NAME=econmech
+DEPS=Dockerfile app/$(IMAGE_NAME).py app/requirements.txt
 
 .PHONY: all
 all: .image_build

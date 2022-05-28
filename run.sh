@@ -1,14 +1,14 @@
 #!/bin/bash
 
-CarSoup() {
-	local IMAGE_NAME=standhope
+econmech() {
+	local IMAGE_NAME=econmech
 
 	if make --question
 	then
-		docker run -it ${IMAGE_NAME} python standhope.py $@
+		docker run -it ${IMAGE_NAME} python ${IMAGE_NAME}.py $@
 	else
-		make && docker run -it ${IMAGE_NAME} python standhope.py $@
+		make && docker run -it ${IMAGE_NAME} python ${IMAGE_NAME}.py $@
 	fi
 }
 
-CarSoup $@
+econmech $@
