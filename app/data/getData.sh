@@ -13,6 +13,9 @@ curl -ko 'scf.zip' 'https://www.federalreserve.gov/econres/scf/dataviz/download/
 unzip 'scf.zip'
 rm -f 'scf.zip' *_have.*
 
+popd
+mkdir world_gdp
+cd world_gdp
 curl -ko 'world_gdp.zip' 'https://api.worldbank.org/v2/en/indicator/NY.GDP.MKTP.CD?downloadformat=csv'
 unzip 'world_gdp.zip'
 rm -f 'world_gdp.zip'
