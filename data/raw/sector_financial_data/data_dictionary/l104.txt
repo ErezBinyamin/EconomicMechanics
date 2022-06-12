@@ -1,0 +1,27 @@
+FL114090005.Q	Nonfinancial noncorporate business; total financial assets	Line 1	Table L.104 Nonfinancial Noncorporate Business	Millions of dollars; not seasonally adjusted
+FL113020005.Q	Nonfinancial noncorporate business; checkable deposits and currency; asset	Line 2	Table L.104 Nonfinancial Noncorporate Business	Millions of dollars; not seasonally adjusted
+FL113030003.Q	Nonfinancial noncorporate business; total time and savings deposits; asset	Line 3	Table L.104 Nonfinancial Noncorporate Business	Millions of dollars; not seasonally adjusted
+FL113034003.Q	Nonfinancial noncorporate business; money market fund shares; asset	Line 4	Table L.104 Nonfinancial Noncorporate Business	Millions of dollars; not seasonally adjusted
+LM114022005.Q	Nonfinancial noncorporate business; debt securities; asset	Line 5	Table L.104 Nonfinancial Noncorporate Business	Millions of dollars; not seasonally adjusted
+LM113061003.Q	Nonfinancial noncorporate business; total U.S. government securities; asset	Line 6	Table L.104 Nonfinancial Noncorporate Business	Millions of dollars; not seasonally adjusted
+LM113062003.Q	Nonfinancial noncorporate business; municipal securities; asset	Line 7	Table L.104 Nonfinancial Noncorporate Business	Millions of dollars; not seasonally adjusted
+FL114023005.Q	Nonfinancial noncorporate business; loans; asset	Line 8	Table L.104 Nonfinancial Noncorporate Business	Millions of dollars; not seasonally adjusted
+FL113065005.Q	Nonfinancial noncorporate business; total mortgages; asset	Line 9	Table L.104 Nonfinancial Noncorporate Business	Millions of dollars; not seasonally adjusted
+FL113066003.Q	Nonfinancial noncorporate business; consumer credit; asset	Line 10	Table L.104 Nonfinancial Noncorporate Business	Millions of dollars; not seasonally adjusted
+FL113070003.Q	Nonfinancial noncorporate business; trade receivables; asset	Line 11	Table L.104 Nonfinancial Noncorporate Business	Millions of dollars; not seasonally adjusted
+FL113090005.Q	Nonfinancial noncorporate business; total miscellaneous assets	Line 12	Table L.104 Nonfinancial Noncorporate Business	Millions of dollars; not seasonally adjusted
+FL113076005.Q	Nonfinancial noncorporate business; insurance receivables due from property-casualty insurance companies; asset	Line 13	Table L.104 Nonfinancial Noncorporate Business	Millions of dollars; not seasonally adjusted
+FL113092405.Q	Nonfinancial noncorporate business; equity in Farm Credit System; asset	Line 14	Table L.104 Nonfinancial Noncorporate Business	Millions of dollars; not seasonally adjusted
+FL113072003.Q	Nonfinancial noncorporate business; Paycheck Protection Program receivables due from federal government; asset	Line 15	Table L.104 Nonfinancial Noncorporate Business	Millions of dollars; not seasonally adjusted
+FL113093005.Q	Nonfinancial noncorporate business; unidentified miscellaneous assets	Line 16	Table L.104 Nonfinancial Noncorporate Business	Millions of dollars; not seasonally adjusted
+FL114190005.Q	Nonfinancial noncorporate business; total liabilities	Line 17	Table L.104 Nonfinancial Noncorporate Business	Millions of dollars; not seasonally adjusted
+FL114123005.Q	Nonfinancial noncorporate business; loans; liability	Line 18	Table L.104 Nonfinancial Noncorporate Business	Millions of dollars; not seasonally adjusted
+FL113168005.Q	Nonfinancial noncorporate business; depository institution loans n.e.c.; liability	Line 19	Table L.104 Nonfinancial Noncorporate Business	Millions of dollars; not seasonally adjusted
+FL113169005.Q	Nonfinancial noncorporate business; other loans and advances; liability	Line 20	Table L.104 Nonfinancial Noncorporate Business	Millions of dollars; not seasonally adjusted
+FL113165005.Q	Nonfinancial noncorporate business; total mortgages; liability	Line 21	Table L.104 Nonfinancial Noncorporate Business	Millions of dollars; not seasonally adjusted
+FL113170005.Q	Nonfinancial noncorporate business; trade payables; liability	Line 22	Table L.104 Nonfinancial Noncorporate Business	Millions of dollars; not seasonally adjusted
+FL113178003.Q	Nonfinancial noncorporate business; taxes payable; liability	Line 23	Table L.104 Nonfinancial Noncorporate Business	Millions of dollars; not seasonally adjusted
+LM115114305.Q	Nonfinancial noncorporate business; foreign direct investment in U.S. real estate business: interncompany debt; liability (market value)	Line 24	Table L.104 Nonfinancial Noncorporate Business	Millions of dollars; not seasonally adjusted
+FL113193003.Q	Nonfinancial noncorporate business; unidentified miscellaneous liabilities	Line 25	Table L.104 Nonfinancial Noncorporate Business	Millions of dollars; not seasonally adjusted
+LM112090205.Q	Nonfinancial noncorporate business; proprietors' equity in noncorporate business	Line 26	Table L.104 Nonfinancial Noncorporate Business	Millions of dollars; not seasonally adjusted
+LM115114103.Q	Nonfinancial noncorporate business; foreign direct investment in U.S. real estate business: equity; liability (market value)	Line 27	Table L.104 Nonfinancial Noncorporate Business	Millions of dollars; not seasonally adjusted

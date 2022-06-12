@@ -1,0 +1,34 @@
+FL622000623.Q	Hedge funds; total financial and nonfinancial assets	Line 1	Table B.101.f Balance Sheet of Domestic Hedge Funds	Millions of dollars; not seasonally adjusted
+FL625035003.Q	Hedge funds; real estate; asset	Line 2	Table B.101.f Balance Sheet of Domestic Hedge Funds	Millions of dollars; not seasonally adjusted
+FL624090005.Q	Hedge funds; total financial assets	Line 3	Table B.101.f Balance Sheet of Domestic Hedge Funds	Millions of dollars; not seasonally adjusted
+FL623091003.Q	Hedge funds; foreign currency holdings; asset	Line 4	Table B.101.f Balance Sheet of Domestic Hedge Funds	Millions of dollars; not seasonally adjusted
+FL623039003.Q	Hedge funds; checkable, time and savings deposits; asset	Line 5	Table B.101.f Balance Sheet of Domestic Hedge Funds	Millions of dollars; not seasonally adjusted
+FL623039013.Q	Hedge funds; other cash and cash equivalents; assets	Line 6	Table B.101.f Balance Sheet of Domestic Hedge Funds	Millions of dollars; not seasonally adjusted
+FL623034003.Q	Hedge funds; money market fund shares; assets	Line 7	Table B.101.f Balance Sheet of Domestic Hedge Funds	Millions of dollars; not seasonally adjusted
+FL622051003.Q	Hedge funds; security repurchase agreements; asset	Line 8	Table B.101.f Balance Sheet of Domestic Hedge Funds	Millions of dollars; not seasonally adjusted
+LM624022005.Q	Hedge funds; debt securities; asset (market value)	Line 9	Table B.101.f Balance Sheet of Domestic Hedge Funds	Millions of dollars; not seasonally adjusted
+LM623061103.Q	Hedge funds; Treasury securities; asset (market value)	Line 10	Table B.101.f Balance Sheet of Domestic Hedge Funds	Millions of dollars; not seasonally adjusted
+LM623061703.Q	Hedge funds; agency- and GSE-backed securities; asset (market value)	Line 11	Table B.101.f Balance Sheet of Domestic Hedge Funds	Millions of dollars; not seasonally adjusted
+LM623062003.Q	Hedge funds; municipal securities; asset (market value)	Line 12	Table B.101.f Balance Sheet of Domestic Hedge Funds	Millions of dollars; not seasonally adjusted
+LM623063003.Q	Hedge funds; corporate and foreign bonds; asset (market value)	Line 13	Table B.101.f Balance Sheet of Domestic Hedge Funds	Millions of dollars; not seasonally adjusted
+FL623069005.Q	Hedge funds; total loans; asset	Line 14	Table B.101.f Balance Sheet of Domestic Hedge Funds	Millions of dollars; not seasonally adjusted
+FL623069503.Q	Hedge funds; leveraged loans; asset	Line 15	Table B.101.f Balance Sheet of Domestic Hedge Funds	Millions of dollars; not seasonally adjusted
+FL623069003.Q	Hedge funds; other loans; asset	Line 16	Table B.101.f Balance Sheet of Domestic Hedge Funds	Millions of dollars; not seasonally adjusted
+LM623064103.Q	Hedge funds; corporate equities; asset	Line 17	Table B.101.f Balance Sheet of Domestic Hedge Funds	Millions of dollars; not seasonally adjusted
+LM623064203.Q	Hedge funds; mutual fund shares; asset	Line 18	Table B.101.f Balance Sheet of Domestic Hedge Funds	Millions of dollars; not seasonally adjusted
+FL623093005.Q	Hedge funds; unidentified miscellaneous assets	Line 19	Table B.101.f Balance Sheet of Domestic Hedge Funds	Millions of dollars; not seasonally adjusted
+FL624190005.Q	Hedge funds; total financial liabilities	Line 20	Table B.101.f Balance Sheet of Domestic Hedge Funds	Millions of dollars; not seasonally adjusted
+FL622151005.Q	Hedge funds; security repurchase agreements; liability	Line 21	Table B.101.f Balance Sheet of Domestic Hedge Funds	Millions of dollars; not seasonally adjusted
+FL622151013.Q	Hedge funds; security repurchase agreements with domestic financial and nonfinancial institutions; liability	Line 22	Table B.101.f Balance Sheet of Domestic Hedge Funds	Millions of dollars; not seasonally adjusted
+FL622151063.Q	Hedge funds; security repurchase agreementswith foreign financial and nonfinancial institutions; liability	Line 23	Table B.101.f Balance Sheet of Domestic Hedge Funds	Millions of dollars; not seasonally adjusted
+FL624123005.Q	Hedge funds; loans; liability	Line 24	Table B.101.f Balance Sheet of Domestic Hedge Funds	Millions of dollars; not seasonally adjusted
+FL624123035.Q	Hedge funds; loans, total secured borrowing via prime brokerages (margin accounts); liability	Line 25	Table B.101.f Balance Sheet of Domestic Hedge Funds	Millions of dollars; not seasonally adjusted
+FL623167003.Q	Hedge funds; secured borrowing via prime brokerages from domestic institutions (margin accounts); liability	Line 26	Table B.101.f Balance Sheet of Domestic Hedge Funds	Millions of dollars; not seasonally adjusted
+FL623169533.Q	Hedge funds; secured borrowing via prime brokerages from foreign institutions (margin accounts); liability	Line 27	Table B.101.f Balance Sheet of Domestic Hedge Funds	Millions of dollars; not seasonally adjusted
+FL624123015.Q	Hedge funds; loans, total other secured borrowings; liability	Line 28	Table B.101.f Balance Sheet of Domestic Hedge Funds	Millions of dollars; not seasonally adjusted
+FL623168013.Q	Hedge funds; other secured borrowings from domestic institutions (banks loans n.e.c.); liability	Line 29	Table B.101.f Balance Sheet of Domestic Hedge Funds	Millions of dollars; not seasonally adjusted
+FL623169513.Q	Hedge funds; other secured borrowings from foreign instittutions (business loans); lability	Line 30	Table B.101.f Balance Sheet of Domestic Hedge Funds	Millions of dollars; not seasonally adjusted
+FL623168023.Q	Hedge funds; total unsecured borrowings (banks loans n.e.c.); liability	Line 31	Table B.101.f Balance Sheet of Domestic Hedge Funds	Millions of dollars; not seasonally adjusted
+FL623193005.Q	Hedge funds; unidentified miscellaneous liabilities	Line 32	Table B.101.f Balance Sheet of Domestic Hedge Funds	Millions of dollars; not seasonally adjusted
+FL622000003.Q	Hedge funds; total net assets; asset	Line 33	Table B.101.f Balance Sheet of Domestic Hedge Funds	Millions of dollars; not seasonally adjusted
+FL623098003.Q	Hedge funds; total long exposure financial derivatives; asset	Line 34	Table B.101.f Balance Sheet of Domestic Hedge Funds	Millions of dollars; not seasonally adjusted

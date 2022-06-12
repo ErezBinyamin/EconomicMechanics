@@ -1,0 +1,9 @@
+ipykernel
+argparse
+requests
+bs4
+Scrapy
+tabulate
+pandas
+matplotlib
+seaborn
